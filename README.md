@@ -76,7 +76,7 @@ A user can view their saved books on a separate page, as shown in the following 
 ![The Viewing Lernantino's Books page shows the books that the user Lernaninto has saved.](./Assets/21-mern-homework-demo-03.gif)
 
 ## Deployed Heroku
-*  https://booksearchengine13.herokuapp.com/
+* [ https://booksearchengine13.herokuapp.com/](https://google-book-search12.herokuapp.com/)
 
 ## Contact
 
